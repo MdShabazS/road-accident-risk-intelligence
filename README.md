@@ -1,3 +1,13 @@
+!\[Python](https://img.shields.io/badge/Python-3.10+-blue)
+
+!\[Machine Learning](https://img.shields.io/badge/Machine%20Learning-XGBoost-orange)
+
+!\[Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
+
+!\[License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
+
 \# 🚗 Road Accident Risk Intelligence Platform (RARIP)
 
 
