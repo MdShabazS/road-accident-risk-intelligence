@@ -77,24 +77,25 @@ RARIP aims to:
 
 ## 📁 Project Structure
 
+```bash
 road-accident-risk-intelligence/
 │
 ├── notebooks/
-│ ├── 01_data_pipeline_clean.ipynb
-│ └── 02_model_training.ipynb
+│   ├── 01_data_pipeline_clean.ipynb
+│   └── 02_model_training.ipynb
 │
 ├── app/
-│ └── dashboard.py
+│   └── dashboard.py
 │
 ├── model.pkl
 ├── feature_columns.pkl
 │
 ├── docs/
-│ └── fatal_risk_heatmap.html
+│   └── fatal_risk_heatmap.html
 │
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 🚀 How To Run Locally
