@@ -1,0 +1,6 @@
+Road Accident Risk Intelligence Platform 
+ 
+Fatal Risk Prediction using XGBoost 
+ROC-AUC ~0.74 
+Fatal Recall up to 88 percent 
+2M+ accident records processed 
