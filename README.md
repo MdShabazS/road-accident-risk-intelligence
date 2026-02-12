@@ -101,25 +101,26 @@ road-accident-risk-intelligence/
 ## 🚀 How To Run Locally
 
 ### 1️⃣ Clone Repository
-
+```
 git clone https://github.com/MdShabazS/road-accident-risk-intelligence.git
-
+```
+```
 cd road-accident-risk-intelligence
-
+```
 
 ### 2️⃣ Install Dependencies
-
+```
 pip install -r requirements.txt
-
+```
 
 ### 3️⃣ Run Dashboard
-
+```
 streamlit run app/dashboard.py
-
+```
 Dashboard will open at:
-
+```
 https://localhost:8501
-
+```
 ---
 
 ## 🔎 Explainability (SHAP)
@@ -155,7 +156,7 @@ The system supports SHAP-based feature importance analysis to explain:
 
 MdShabazS  
 Electronics & Communication Engineering  
-VLSI & AI Systems Enthusiast  
+Embedded & AI Systems Enthusiast  
 
 ---
 
